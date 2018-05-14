@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-05-01">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="region" title="Region" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="newswatcher2">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1037.3619" y="-199.15697"></viz:position>
+      </node>
+      <node id="emigre80">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1002.29803" y="-358.65866"></viz:position>
+      </node>
+      <node id="bg26892">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-383.08603" y="-650.0166"></viz:position>
+      </node>
+      <node id="johnpatrickkea5">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-593.6775" y="-873.7146"></viz:position>
+      </node>
+      <node id="AngeelinaJoIie">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-461.35544" y="-953.02405"></viz:position>
+      </node>
+      <node id="BartonFairfax">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.8654" y="-630.5154"></viz:position>
+      </node>
+      <node id="zebrafinch">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.95874" y="-544.42804"></viz:position>
+      </node>
+      <node id="AndyCrooks">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-26.668348" y="-157.20245"></viz:position>
+      </node>
+      <node id="GeoSocialMason">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.859323" y="1.649005"></viz:position>
+      </node>
+      <node id="MarylandDHMH">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="486.1928" y="-940.11115"></viz:position>
+      </node>
+      <node id="greg_folkers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="767.2416" y="44.011787"></viz:position>
+      </node>
+      <node id="TheLancet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="741.4499" y="-114.34449"></viz:position>
+      </node>
+      <node id="RBRadio2">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.719513" y="-769.89465"></viz:position>
+      </node>
+      <node id="nubia_watu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-216.24203" y="-883.36383"></viz:position>
+      </node>
+      <node id="Ahh_Dam">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="415.1293" y="-191.00673"></viz:position>
+      </node>
+      <node id="60cards_net">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="293.4972" y="-73.93955"></viz:position>
+      </node>
+      <node id="AndrewGarcia531">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-646.567" y="-633.4714"></viz:position>
+      </node>
+      <node id="davidfrum">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1055.651" y="-44.501137"></viz:position>
+      </node>
+      <node id="AnkelBiter01">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-601.2621" y="-54.10765"></viz:position>
+      </node>
+      <node id="CEEJilicious">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-582.6276" y="101.47535"></viz:position>
+      </node>
+      <node id="tlynnr85">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="690.98395" y="323.6251"></viz:position>
+      </node>
+      <node id="NeuroNewsNight">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="532.53937" y="288.5164"></viz:position>
+      </node>
+      <node id="ChefResha">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="804.1263" y="685.8486"></viz:position>
+      </node>
+      <node id="Parkour_Lewis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="894.88916" y="559.4582"></viz:position>
+      </node>
+      <node id="MrEdgarL">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="642.9329" y="-425.06326"></viz:position>
+      </node>
+      <node id="united">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="497.68048" y="-486.81192"></viz:position>
+      </node>
+      <node id="jrbarrat">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-521.20465" y="-736.7602"></viz:position>
+      </node>
+      <node id="abbylaporte">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-381.28812" y="-823.4976"></viz:position>
+      </node>
+      <node id="SPQRzilla">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.1769" y="-734.3311"></viz:position>
+      </node>
+      <node id="AmandaDylina">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.8729" y="760.7999"></viz:position>
+      </node>
+      <node id="Halt_Zika">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-214.55692" y="879.7384"></viz:position>
+      </node>
+      <node id="archieaverage">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-900.9082" y="-58.603428"></viz:position>
+      </node>
+      <node id="DanteAtkins">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-880.77264" y="-223.04721"></viz:position>
+      </node>
+      <node id="leiaorgana_solo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1023.097" y="260.6638"></viz:position>
+      </node>
+      <node id="trombonesound">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1049.3365" y="109.51302"></viz:position>
+      </node>
+      <node id="MunsingLaw">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-89.83984" y="1055.7411"></viz:position>
+      </node>
+      <node id="SenBobCasey">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-243.70665" y="1029.3203"></viz:position>
+      </node>
+      <node id="ben_zika">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="86.59285" y="284.4883"></viz:position>
+      </node>
+      <node id="NigeriaNewsdesk">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.280426" y="165.94951"></viz:position>
+      </node>
+      <node id="DailyPostNGR">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.34937" y="288.14688"></viz:position>
+      </node>
+      <node id="adroops46">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="216.94104" y="-396.22348"></viz:position>
+      </node>
+      <node id="CunningSmi1e">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="259.041" y="-238.63783"></viz:position>
+      </node>
+      <node id="EnVy_PraizedZ">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-717.1663" y="-314.69653"></viz:position>
+      </node>
+      <node id="Yes_Zika">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-602.4982" y="-219.64062"></viz:position>
+      </node>
+      <node id="photanon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="661.1623" y="168.30844"></viz:position>
+      </node>
+      <node id="ONC3X">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="609.99646" y="10.095062"></viz:position>
+      </node>
+      <node id="lenit0">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="919.1477" y="76.547134"></viz:position>
+      </node>
+      <node id="boricuabrujita">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="902.47925" y="-84.6784"></viz:position>
+      </node>
+      <node id="KittyStroker">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1037.3722" y="-201.72444"></viz:position>
+      </node>
+      <node id="Dugg55">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.957615" y="-922.59955"></viz:position>
+      </node>
+      <node id="RogerJStoneJr">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.80605" y="-869.0847"></viz:position>
+      </node>
+      <node id="Iflandway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="870.8647" y="-240.04488"></viz:position>
+      </node>
+      <node id="SMEMChat">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="703.2276" y="-269.89233"></viz:position>
+      </node>
+      <node id="jayparkinson">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="931.104" y="-501.86163"></viz:position>
+      </node>
+      <node id="HelenBranswell">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="994.85736" y="-356.11087"></viz:position>
+      </node>
+      <node id="MsGail18">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1058.5294" y="-40.98591"></viz:position>
+      </node>
+      <node id="NYTScience">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1059.5607" y="126.2872"></viz:position>
+      </node>
+      <node id="LandrumAR">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-312.8411" y="-1008.2406"></viz:position>
+      </node>
+      <node id="marynmck">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-155.61777" y="-1052.0609"></viz:position>
+      </node>
+      <node id="tommyrva">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-889.7748" y="565.72015"></viz:position>
+      </node>
+      <node id="CantHardyWait">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-804.73676" y="691.6453"></viz:position>
+      </node>
+      <node id="Hardunk3nchud">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1001.8966" y="266.95615"></viz:position>
+      </node>
+      <node id="ivamarie333">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="981.5906" y="420.5462"></viz:position>
+      </node>
+      <node id="casspa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.06412" y="-359.55112"></viz:position>
+      </node>
+      <node id="WeekendSportsUp">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="330.54538" y="-515.4968"></viz:position>
+      </node>
+      <node id="Elliesworld">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="726.82117" y="-740.26764"></viz:position>
+      </node>
+      <node id="MarchofDimes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="632.2081" y="-860.0733"></viz:position>
+      </node>
+      <node id="chrisopotamia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.38354" y="988.12805"></viz:position>
+      </node>
+      <node id="SPSSS">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="240.14667" y="1028.7297"></viz:position>
+      </node>
+      <node id="im_devdevv">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="657.8614" y="618.1304"></viz:position>
+      </node>
+      <node id="Cveggiess">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="588.3586" y="450.8011"></viz:position>
+      </node>
+      <node id="megtirrell">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="385.01" y="-818.26105"></viz:position>
+      </node>
+      <node id="MMarchioneAP">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="530.7855" y="-750.9237"></viz:position>
+      </node>
+      <node id="mariapokie">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="333.8124" y="532.5737"></viz:position>
+      </node>
+      <node id="TODAYshow">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="493.25598" y="572.7432"></viz:position>
+      </node>
+      <node id="Tim_Banal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.6157" y="-1041.3823"></viz:position>
+      </node>
+      <node id="Ioana_Banal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="337.93332" y="-1000.2173"></viz:position>
+      </node>
+      <node id="maximo804">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.55472" y="-44.655235"></viz:position>
+      </node>
+      <node id="Istillwantapony">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-117.959755" y="117.36319"></viz:position>
+      </node>
+      <node id="proudwarrior27">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-826.115" y="-660.617"></viz:position>
+      </node>
+      <node id="shawneeinsd">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-717.3682" y="-775.9261"></viz:position>
+      </node>
+      <node id="blink_hem">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-926.3733" y="-526.3863"></viz:position>
+      </node>
+      <node id="LyanneMelendez">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="817.4825" y="-390.08353"></viz:position>
+      </node>
+      <node id="CCLFlorida">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.51633" y="-449.11835"></viz:position>
+      </node>
+      <node id="CNN">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-496.61133" y="-337.89963"></viz:position>
+      </node>
+      <node id="LifeSaverbro17">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-677.214" y="822.4502"></viz:position>
+      </node>
+      <node id="Metsisles123">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-537.8285" y="910.9015"></viz:position>
+      </node>
+      <node id="stjudendukwe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="335.44675" y="87.51273"></viz:position>
+      </node>
+      <node id="shogbo1">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.02032" y="204.18277"></viz:position>
+      </node>
+      <node id="nairaland">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="362.80414" y="259.25452"></viz:position>
+      </node>
+      <node id="Sven_Banal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.1405" y="-1063.6486"></viz:position>
+      </node>
+      <node id="PugLife_87">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="745.37286" y="-540.5578"></viz:position>
+      </node>
+      <node id="Variety">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="608.41693" y="-612.79395"></viz:position>
+      </node>
+      <node id="RcmppAo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-392.63278" y="980.30133"></viz:position>
+      </node>
+      <node id="statnews">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-372.80228" y="826.2858"></viz:position>
+      </node>
+      <node id="Dame_Kelz">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-613.79596" y="-440.84683"></viz:position>
+      </node>
+      <node id="thatpussywillow">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-507.9247" y="-553.88086"></viz:position>
+      </node>
+      <node id="DEagleOnline">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.46227" y="222.98334"></viz:position>
+      </node>
+      <node id="lindaikeji">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="417.87704" y="405.456"></viz:position>
+      </node>
+      <node id="uconnrichman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-229.19781" y="-379.83188"></viz:position>
+      </node>
+      <node id="3esp">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-345.0426" y="-273.67953"></viz:position>
+      </node>
+      <node id="NBCNews">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="238.5574" y="382.17374"></viz:position>
+      </node>
+      <node id="WBG_Poverty">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="170.06099" y="45.447952"></viz:position>
+      </node>
+      <node id="bellanaija">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.902306" y="448.429"></viz:position>
+      </node>
+      <node id="SaharaReporters">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="69.09478" y="437.49933"></viz:position>
+      </node>
+      <node id="BritishVogue">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-231.47295" y="380.47223"></viz:position>
+      </node>
+      <node id="joedonnison">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="88.19186" y="-899.8646"></viz:position>
+      </node>
+      <node id="afterhoours">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-750.08685" y="24.090267"></viz:position>
+      </node>
+      <node id="JebSanford">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-749.02136" y="-138.15932"></viz:position>
+      </node>
+      <node id="ChicanoPAC">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="117.968185" y="908.9461"></viz:position>
+      </node>
+      <node id="FoxNewsOpinion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="68.56025" y="762.8435"></viz:position>
+      </node>
+      <node id="abschneider_">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="273.04663" y="-697.8843"></viz:position>
+      </node>
+      <node id="Contagion_Live">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="425.68668" y="-638.5075"></viz:position>
+      </node>
+      <node id="orangemojitoo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="579.1474" y="-151.65395"></viz:position>
+      </node>
+      <node id="apricotluiza">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="534.1381" y="-308.6104"></viz:position>
+      </node>
+      <node id="SafAriInTheCity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.58048" y="-739.7779"></viz:position>
+      </node>
+      <node id="ProductJT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="843.319" y="363.0611"></viz:position>
+      </node>
+      <node id="neurociencias">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="833.1758" y="208.4521"></viz:position>
+      </node>
+      <node id="Anthony_1865">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-849.55164" y="-386.27863"></viz:position>
+      </node>
+      <node id="JermDeWalt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-752.9853" y="-513.39825"></viz:position>
+      </node>
+      <node id="UF">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="750.6083" y="493.53555"></viz:position>
+      </node>
+      <node id="JukuRican">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.74258" y="-117.94393"></viz:position>
+      </node>
+      <node id="kcgreenn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.00447" y="-276.86078"></viz:position>
+      </node>
+      <node id="JohnT1x">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="560.57336" y="906.41187"></viz:position>
+      </node>
+      <node id="JulieBerry438">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="420.00046" y="835.4968"></viz:position>
+      </node>
+      <node id="ericnelsonchgo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.50621" y="545.9254"></viz:position>
+      </node>
+      <node id="OnLeaveTaking">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-46.76195" y="911.0013"></viz:position>
+      </node>
+      <node id="SohnsTed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-409.9748" y="162.08617"></viz:position>
+      </node>
+      <node id="theaterofscifi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.99167" y="317.18103"></viz:position>
+      </node>
+      <node id="AlphonseBeliav1">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="492.38733" y="134.64624"></viz:position>
+      </node>
+      <node id="BillCassidy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="454.54153" y="-30.241001"></viz:position>
+      </node>
+      <node id="DorisMurdock">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="263.77045" y="855.8621"></viz:position>
+      </node>
+      <node id="leeladaou">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="213.0197" y="703.7124"></viz:position>
+      </node>
+      <node id="FoxandtheFlu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-892.9439" y="105.30712"></viz:position>
+      </node>
+      <node id="ChrisJo47024394">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-865.21545" y="263.93137"></viz:position>
+      </node>
+      <node id="jsapp24">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-824.9835" y="419.49365"></viz:position>
+      </node>
+      <node id="hcphtx">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.7868" y="-100.22985"></viz:position>
+      </node>
+      <node id="NACoTweets">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-279.5973" y="62.09635"></viz:position>
+      </node>
+      <node id="SophieNovack">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-979.74255" y="417.59106"></viz:position>
+      </node>
+      <node id="JoeUscinski">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.3221" y="5.3103495"></viz:position>
+      </node>
+      <node id="alisongriswold">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.4686" y="-156.9037"></viz:position>
+      </node>
+      <node id="Loxsoceles">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-553.60614" y="412.76117"></viz:position>
+      </node>
+      <node id="OgleConnie">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-548.8494" y="253.88608"></viz:position>
+      </node>
+      <node id="BroLy_Bro">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-725.39087" y="180.51384"></viz:position>
+      </node>
+      <node id="Akquire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-693.2113" y="335.2289"></viz:position>
+      </node>
+      <node id="highriselath">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-533.39795" y="567.4173"></viz:position>
+      </node>
+      <node id="NZBatman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-704.05237" y="516.77277"></viz:position>
+      </node>
+      <node id="scopedbylarry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-390.69922" y="646.1816"></viz:position>
+      </node>
+      <node id="MackayIM">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.64647" y="715.0213"></viz:position>
+      </node>
+      <node id="JuliannDunlap">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-516.15106" y="749.9094"></viz:position>
+      </node>
+      <node id="Trxxwild33">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-655.3169" y="665.3672"></viz:position>
+      </node>
+      <node id="megrua">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="849.2907" y="-647.01666"></viz:position>
+      </node>
+      <node id="sheebajolly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="179.33743" y="-567.3349"></viz:position>
+      </node>
+      <node id="melindagates">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="27.165972" y="-607.6776"></viz:position>
+      </node>
+      <node id="ekctafc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-96.64335" y="-475.02414"></viz:position>
+      </node>
+      <node id="peasmoldia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="61.26684" y="-441.51865"></viz:position>
+      </node>
+      <node id="CSTEnews">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.36659" y="-317.74985"></viz:position>
+      </node>
+      <node id="PBS">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.80481" y="-212.80943"></viz:position>
+      </node>
+      <node id="CarlosdelRio7">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="38.34693" y="607.0684"></viz:position>
+      </node>
+      <node id="EmoryDeptofMed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-114.631874" y="603.7311"></viz:position>
+      </node>
+      <node id="afwaller">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="545.34674" y="731.19714"></viz:position>
+      </node>
+      <node id="sasanka_95">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="370.57004" y="688.22784"></viz:position>
+      </node>
+      <node id="___MES___">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="691.6903" y="800.525"></viz:position>
+      </node>
+      <node id="ItsVRO">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="74.772484" y="1059.3623"></viz:position>
+      </node>
+      <node id="CDCgov">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-255.88757" y="539.44415"></viz:position>
+      </node>
+      <node id="FredQuimby123">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-395.89786" y="471.12735"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="newswatcher2" target="emigre80" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="bg26892" target="bg26892" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="johnpatrickkea5" target="AngeelinaJoIie">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="BartonFairfax" target="zebrafinch">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="AndyCrooks" target="GeoSocialMason" weight="1.400555556">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="MarylandDHMH" target="MarylandDHMH" weight="1.4">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="greg_folkers" target="TheLancet" weight="2.000833333">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="RBRadio2" target="nubia_watu">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="Ahh_Dam" target="60cards_net">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="AndrewGarcia531" target="AndrewGarcia531">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="newswatcher2" target="davidfrum" weight="1.401111111">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="AnkelBiter01" target="CEEJilicious">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="tlynnr85" target="NeuroNewsNight">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="ChefResha" target="Parkour_Lewis" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="MrEdgarL" target="united">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="jrbarrat" target="abbylaporte" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="RBRadio2" target="SPQRzilla">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="AmandaDylina" target="Halt_Zika" weight="1.000833333">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="ChefResha" target="Parkour_Lewis" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="DC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="archieaverage" target="DanteAtkins">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="leiaorgana_solo" target="trombonesound">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="MunsingLaw" target="SenBobCasey">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="ben_zika" target="DailyPostNGR">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="ben_zika" target="DailyPostNGR">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="adroops46" target="CunningSmi1e">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="EnVy_PraizedZ" target="Yes_Zika" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="johnpatrickkea5" target="AngeelinaJoIie">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="photanon" target="ONC3X" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="lenit0" target="boricuabrujita">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="KittyStroker" target="KittyStroker">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="Dugg55" target="RogerJStoneJr">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="Iflandway" target="SMEMChat">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="jayparkinson" target="HelenBranswell">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="MsGail18" target="NYTScience">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="LandrumAR" target="marynmck" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="tommyrva" target="CantHardyWait" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="Hardunk3nchud" target="ivamarie333">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="casspa" target="WeekendSportsUp" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="Elliesworld" target="MarchofDimes">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="chrisopotamia" target="SPSSS" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="im_devdevv" target="Cveggiess" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="megtirrell" target="MMarchioneAP" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="mariapokie" target="TODAYshow">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="Tim_Banal" target="Ioana_Banal">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="maximo804" target="Istillwantapony">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="proudwarrior27" target="shawneeinsd" weight="1.200833333">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="proudwarrior27" target="shawneeinsd" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="proudwarrior27" target="proudwarrior27" weight="1.200555556">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="proudwarrior27" target="blink_hem" weight="1.200277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="ben_zika" target="ben_zika">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="Iflandway" target="LyanneMelendez">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="CCLFlorida" target="CNN">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="LifeSaverbro17" target="Metsisles123">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="ben_zika" target="stjudendukwe">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="ben_zika" target="shogbo1">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="ben_zika" target="ben_zika">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="ben_zika" target="ben_zika">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="ben_zika" target="nairaland">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="ben_zika" target="NigeriaNewsdesk" weight="1.200277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="ben_zika" target="NigeriaNewsdesk" weight="1.200277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="ben_zika" target="DailyPostNGR">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="Tim_Banal" target="Sven_Banal">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="PugLife_87" target="Variety">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="ben_zika" target="DailyPostNGR">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="RcmppAo" target="statnews">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="Dame_Kelz" target="thatpussywillow">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="RcmppAo" target="Halt_Zika">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="ben_zika" target="DEagleOnline">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="ben_zika" target="lindaikeji" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="uconnrichman" target="3esp">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="ben_zika" target="NBCNews">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="ben_zika" target="WBG_Poverty" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="ben_zika" target="bellanaija">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="ben_zika" target="SaharaReporters">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="ben_zika" target="BritishVogue">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="ben_zika" target="nairaland">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="ben_zika" target="NigeriaNewsdesk" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="proudwarrior27" target="shawneeinsd" weight="1.200833333">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="ben_zika" target="nairaland">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="ben_zika" target="NigeriaNewsdesk">
+        <attvalues>
+          <attvalue for="region" value="NYC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="joedonnison" target="RogerJStoneJr">
+        <attvalues>
+          <attvalue for="region" value="LA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="afterhoours" target="JebSanford" weight="1.201111111">
+        <attvalues>
+          <attvalue for="region" value="LA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="ChicanoPAC" target="FoxNewsOpinion">
+        <attvalues>
+          <attvalue for="region" value="LA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="abschneider_" target="Contagion_Live" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="LA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="orangemojitoo" target="apricotluiza">
+        <attvalues>
+          <attvalue for="region" value="LA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="abschneider_" target="SafAriInTheCity">
+        <attvalues>
+          <attvalue for="region" value="LA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="ProductJT" target="neurociencias">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="Anthony_1865" target="JermDeWalt">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="Anthony_1865" target="JermDeWalt">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="ProductJT" target="UF" weight="1.200277778">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="JukuRican" target="kcgreenn">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="JohnT1x" target="JulieBerry438" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="ericnelsonchgo" target="NBCNews" weight="1.000833333">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="OnLeaveTaking" target="Halt_Zika">
+        <attvalues>
+          <attvalue for="region" value="Chicago"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="153" source="archieaverage" target="DanteAtkins">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="154" source="leiaorgana_solo" target="trombonesound">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="MunsingLaw" target="SenBobCasey">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="156" source="newswatcher2" target="emigre80" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="157" source="EnVy_PraizedZ" target="Yes_Zika" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="158" source="johnpatrickkea5" target="AngeelinaJoIie">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="159" source="lenit0" target="boricuabrujita">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="160" source="KittyStroker" target="KittyStroker">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="161" source="Dugg55" target="RogerJStoneJr">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="162" source="MarylandDHMH" target="MarylandDHMH" weight="1.4">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="163" source="jayparkinson" target="HelenBranswell">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="164" source="MsGail18" target="NYTScience">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="165" source="newswatcher2" target="davidfrum" weight="1.401111111">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="166" source="LandrumAR" target="marynmck" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="167" source="tommyrva" target="CantHardyWait" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="168" source="Hardunk3nchud" target="ivamarie333">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="169" source="SohnsTed" target="theaterofscifi">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="170" source="Elliesworld" target="MarchofDimes">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="171" source="chrisopotamia" target="SPSSS" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="172" source="jrbarrat" target="abbylaporte" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="173" source="megtirrell" target="MMarchioneAP" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="174" source="Tim_Banal" target="Ioana_Banal">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="175" source="LifeSaverbro17" target="Metsisles123">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="176" source="Tim_Banal" target="Sven_Banal">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="177" source="PugLife_87" target="Variety">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="178" source="Dame_Kelz" target="thatpussywillow">
+        <attvalues>
+          <attvalue for="region" value="Philidelphia"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="179" source="AlphonseBeliav1" target="BillCassidy">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="180" source="DorisMurdock" target="leeladaou">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="181" source="FoxandtheFlu" target="FoxandtheFlu">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="182" source="ChrisJo47024394" target="jsapp24" weight="1.01">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="183" source="hcphtx" target="NACoTweets" weight="1.401666667">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="184" source="SophieNovack" target="SophieNovack">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="185" source="SophieNovack" target="SophieNovack">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="186" source="ChrisJo47024394" target="jsapp24" weight="1.01">
+        <attvalues>
+          <attvalue for="region" value="Houston"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="187" source="JoeUscinski" target="alisongriswold" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Miami"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="188" source="Loxsoceles" target="OgleConnie">
+        <attvalues>
+          <attvalue for="region" value="Miami"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="189" source="BroLy_Bro" target="Akquire" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Miami"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="190" source="highriselath" target="NZBatman">
+        <attvalues>
+          <attvalue for="region" value="Miami"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="191" source="scopedbylarry" target="MackayIM" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Miami"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="192" source="JuliannDunlap" target="Trxxwild33" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="Seattle "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="193" source="megrua" target="megrua" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="Seattle "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="194" source="sheebajolly" target="melindagates">
+        <attvalues>
+          <attvalue for="region" value="Seattle "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="195" source="ekctafc" target="peasmoldia" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Seattle "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="196" source="CSTEnews" target="PBS">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="197" source="CarlosdelRio7" target="EmoryDeptofMed" weight="1.600555556">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="198" source="afwaller" target="sasanka_95">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="199" source="afwaller" target="afwaller">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="200" source="afwaller" target="___MES___" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="201" source="ItsVRO" target="ItsVRO" weight="1.000277778">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="202" source="CDCgov" target="FredQuimby123">
+        <attvalues>
+          <attvalue for="region" value="Atlanta"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="203" source="JuliannDunlap" target="Trxxwild33" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="Indianapolis"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="204" source="megrua" target="megrua" weight="1.000555556">
+        <attvalues>
+          <attvalue for="region" value="Indianapolis"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
