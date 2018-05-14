@@ -1,0 +1,15 @@
+AIT 690 project 
+
+
+title slide 
+motivation 
+hypothesis 
+Data gathering mechanisms 
+Data descriptions 
+Data cleaning and processing 
+Exploratory statistics 
+wordcloud 
+Nodes description ( closeness etc ) 
+Sentiment 
+tf - idf 
+Conclusion 
